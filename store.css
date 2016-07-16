@@ -1,0 +1,23 @@
+body{
+  background-color: #dbddfe;
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  text-align: center;
+}
+
+h1, h2,{
+  text-decoration: underline;
+}
+
+
+
+li{
+  display: block;
+  text-align: center;
+  margin: 0px;
+  padding: 10px;
+}
+
+.store{
+  text-align: center;
+}
